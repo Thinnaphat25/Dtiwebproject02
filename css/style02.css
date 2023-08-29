@@ -1,0 +1,17 @@
+p{
+    background-color: yellow;
+    font-size: large
+}
+
+hr{
+    width: 80%;
+    height: 10px;
+    border:  none;
+    background-color: LightPink;
+}
+
+*{
+    text-decoration: underline;
+    background-color: aqua;
+
+}

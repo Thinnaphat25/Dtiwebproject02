@@ -1,0 +1,16 @@
+/*selector1  selector2{
+    
+} */
+
+/*selector1 > selector2{
+
+} */
+
+/* #xx + p{
+    background-color: aqua;
+} */
+
+/* Alt+0126 ได้ตัวหนอน Grave */
+#xx ~ p{
+    background-color: blueviolet;
+}

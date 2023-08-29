@@ -1,0 +1,15 @@
+/* 
+    selector :: pseudo- element
+
+ */
+
+ h1::first-letter{
+    font-size: 100px;
+    color: red;
+    background-color: yellow;
+    
+ }
+
+ h3::before{content: url(../img/img03.png);}
+
+h3::after{content: url(../img/img02.png);}

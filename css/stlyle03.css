@@ -1,0 +1,30 @@
+span{
+    background-color: yellow;
+    font-weight: bolder;
+
+}
+img{
+    width: 200px;
+
+}
+
+#A1{
+    border: 5px solid lawngreen;
+    
+}
+
+#A2{
+    border: 5px solid skyblue;
+
+}
+
+.xx{
+    text-decoration: underline;
+
+}    
+
+h1, strong, #A3{
+    background-color: blue;
+}
+    
+
